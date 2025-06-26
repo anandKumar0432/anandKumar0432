@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandKumar0432
-- 👀 I’m interested in 
-- 🌱 I’m currently learning spring boot
+- 👀 I’m interested in world of technology
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anandkumarsaidi2005@gmail.com
 - 😄 Pronouns: He
